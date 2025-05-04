@@ -12,7 +12,7 @@ Go To
 		
 GO!
 	
-Kaustav Razdan
+[Student Name]
 	
 	
 My Academics
@@ -37,7 +37,7 @@ Weekly Calendar View
 	
 			
 	
-Spring 2025 | Undergraduate | University of Waterloo
+Spring 20XX | Undergraduate | University of Waterloo
 	
 	
 	
@@ -59,7 +59,7 @@ Show Waitlisted Classes
 	
 	
 	
-MSE 261 - Eng Economics: Fin Mgmt
+AE 111 - CourseName1
 		
 	
 Status 	Units 	Grading 	Deadlines
@@ -80,11 +80,11 @@ TUT
 	
 M 2:30PM - 3:20PM
 	
-QNC 1502
+E7 1502
 	
 To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
 4665
 	
 001
@@ -93,35 +93,35 @@ LEC
 	
 MW 8:30AM - 9:50AM
 	
-QNC 1502
+E7 1502
 	
-Hassan Shavandi
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
  
 	  	
  
 	
 M 1:00PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Hassan Shavandi
+To be Announced
 	
-06/09/2025 - 06/09/2025
+06/09/2026 - 06/09/2026
  
 	  	
  
 	
 M 1:00PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Hassan Shavandi
+To be Announced
 	
-06/30/2025 - 06/30/2025
+06/30/2026 - 06/30/2026
 	
-NE 318 - Continuum Mechanics
+ARCH 111 - CourseName2
 		
 	
 Status 	Units 	Grading 	Deadlines
@@ -142,44 +142,44 @@ LEC
 	
 M 10:00AM - 11:20AM
 	
-QNC 1502
+E7 1502
 	
-Ting Tsui
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
  
 	  	
  
 	
 M 1:00PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Ting Tsui
+To be Announced
 	
-05/05/2025 - 05/05/2025
+05/05/2026 - 05/05/2026
  
 	  	
  
 	
 F 10:00AM - 11:20AM
 	
-QNC 1502
+E7 1502
 	
-Ting Tsui
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
  
 	  	
  
 	
 M 1:00PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Ting Tsui
+To be Announced
 	
-06/23/2025 - 06/23/2025
+06/23/2026 - 06/23/2026
 3088
 	
 101
@@ -188,13 +188,13 @@ TUT
 	
 M 3:30PM - 4:20PM
 	
-QNC 1502
+E7 1502
 	
-Ting Tsui
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
 	
-NE 320L - Character of Materials Lab
+BME 111 - CourseName3
 		
 	
 Status 	Units 	Grading 	Deadlines
@@ -215,68 +215,68 @@ LAB
 	
 T 1:00PM - 3:50PM
 	
-QNC 2614
+E7 2614
 	
-Howard Siu
+To be Announced
 	
-05/13/2025 - 05/13/2025
+05/13/2026 - 05/13/2026
  
 	  	
  
 	
 T 1:00PM - 3:50PM
 	
-QNC 2614
+E7 2614
 	
-Howard Siu
+To be Announced
 	
-05/27/2025 - 05/27/2025
+05/27/2026 - 05/27/2026
  
 	  	
  
 	
 T 1:00PM - 3:50PM
 	
-QNC 2614
+E7 2614
 	
-Howard Siu
+To be Announced
 	
-06/10/2025 - 06/10/2025
+06/10/2026 - 06/10/2026
  
 	  	
  
 	
 T 1:00PM - 3:50PM
 	
-QNC 2614
+E7 2614
 	
-Howard Siu
+To be Announced
 	
-06/24/2025 - 06/24/2025
+06/24/2026 - 06/24/2026
  
 	  	
  
 	
 T 1:00PM - 3:50PM
 	
-QNC 2614
+E7 2614
 	
-Howard Siu
+To be Announced
 	
-07/08/2025 - 07/08/2025
+07/08/2026 - 07/08/2026
  
 	  	
  
 	
 T 1:00PM - 3:50PM
 	
-QNC 2614
+E7 2614
 	
-Howard Siu
+To be Announced
 	
-07/22/2025 - 07/22/2025
+07/22/2026 - 07/22/2026
 	
-NE 332 - Quantum Mechanics
+BET 111 - CourseName4
 		
 	
 Status 	Units 	Grading 	Deadlines
@@ -297,44 +297,44 @@ LEC
 	
 T 8:30AM - 9:50AM
 	
-QNC 1502
+E7 1502
 	
-Jonathan Baugh
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
  
 	  	
  
 	
 Th 8:30AM - 9:50AM
 	
-QNC 1502
+E7 1502
 	
-Jonathan Baugh
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
  
 	  	
  
 	
 M 1:00PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Jonathan Baugh
+To be Announced
 	
-05/12/2025 - 05/12/2025
+05/12/2026 - 05/12/2026
  
 	  	
  
 	
 M 1:00PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Jonathan Baugh
+To be Announced
 	
-07/07/2025 - 07/07/2025
+07/07/2026 - 07/07/2026
 3292
 	
 101
@@ -343,13 +343,13 @@ TUT
 	
 F 12:30PM - 1:20PM
 	
-QNC 1502
+E7 1502
 	
-Jonathan Baugh
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
 	
-NE 333 - Macromolecular Science
+CHE 111 - CourseName5
 		
 	
 Status 	Units 	Grading 	Deadlines
@@ -370,44 +370,44 @@ LEC
 	
 T 10:00AM - 11:20AM
 	
-QNC 1502
+E7 1502
 	
-Costas Tzoganakis
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
  
 	  	
  
 	
 F 8:30AM - 9:50AM
 	
-QNC 1502
+E7 1502
 	
-Costas Tzoganakis
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
  
 	  	
  
 	
 M 1:00PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Costas Tzoganakis
+To be Announced
 	
-05/26/2025 - 05/26/2025
+05/26/2026 - 05/26/2026
  
 	  	
  
 	
 M 1:00PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Costas Tzoganakis
+To be Announced
 	
-07/14/2025 - 07/14/2025
+07/14/2026 - 07/14/2026
 3030
 	
 101
@@ -416,13 +416,13 @@ TUT
 	
 F 1:30PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Costas Tzoganakis
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
 	
-NE 340L - Microfab & Thin-Film Tech Lab
+CIVE 111 - CourseName6
 		
 	
 Status 	Units 	Grading 	Deadlines
@@ -445,11 +445,11 @@ Th 1:00PM - 6:50PM
 	
 DC 3701
 	
-Bahareh Sadeghimakki
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
 	
-NE 343 - Microfabrication & Thin-film
+ECE 111 - CourseName7
 		
 	
 Status 	Units 	Grading 	Deadlines
@@ -470,33 +470,33 @@ LEC
 	
 WTh 10:00AM - 11:20AM
 	
-QNC 1502
+E7 1502
 	
-Siva Sivoththaman
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
  
 	  	
  
 	
 M 1:00PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Siva Sivoththaman
+To be Announced
 	
-06/02/2025 - 06/02/2025
+06/02/2026 - 06/02/2026
  
 	  	
  
 	
 M 1:00PM - 2:20PM
 	
-QNC 1502
+E7 1502
 	
-Siva Sivoththaman
+To be Announced
 	
-07/21/2025 - 07/21/2025
+07/21/2026 - 07/21/2026
 3020
 	
 101
@@ -505,11 +505,11 @@ TUT
 	
 M 4:30PM - 5:20PM
 	
-QNC 1502
+E7 1502
 	
-Siva Sivoththaman
+To be Announced
 	
-05/05/2025 - 07/30/2025
+05/05/2026 - 07/30/2026
 	
 Printer Friendly Page
 	
