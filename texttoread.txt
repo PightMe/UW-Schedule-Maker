@@ -1,0 +1,519 @@
+
+											
+	
+	
+	
+						
+	
+				
+	
+	
+Go To
+		
+GO!
+	
+Kaustav Razdan
+	
+	
+My Academics
+	
+Course Selection (Undergrad only)
+	
+Search for Classes
+	
+	
+	
+  	My Class Schedule 	 	  	| 	 	  	Shopping Cart 	 	  	| 	 	  	Add 	 	  	| 	 	  	Drop 	 	  	| 	 	  	Swap 	 	  	| 	 	  	Edit 	 	  	| 	 	  	Term Information 	 	  	| 	 	  	Exam Information 	 
+		
+My Class Schedule
+	
+			
+	
+Select Display Option
+	
+List View
+	
+Weekly Calendar View
+	
+			
+	
+Spring 2025 | Undergraduate | University of Waterloo
+	
+	
+	
+	
+Group Box
+		
+	
+Class Schedule Filter Options Collapsible section Class Schedule Filter Options 
+			
+	
+Show Enrolled Classes
+	
+Show Dropped Classes
+	
+Show Waitlisted Classes
+	
+	
+	
+	
+	
+	
+MSE 261 - Eng Economics: Fin Mgmt
+		
+	
+Status 	Units 	Grading 	Deadlines
+Enrolled
+	
+0.50
+	
+Numeric Grading Basis
+	
+Academic Calendar Deadlines
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+4668
+	
+101
+	
+TUT
+	
+M 2:30PM - 3:20PM
+	
+QNC 1502
+	
+To be Announced
+	
+05/05/2025 - 07/30/2025
+4665
+	
+001
+	
+LEC
+	
+MW 8:30AM - 9:50AM
+	
+QNC 1502
+	
+Hassan Shavandi
+	
+05/05/2025 - 07/30/2025
+ 
+	  	
+ 
+	
+M 1:00PM - 2:20PM
+	
+QNC 1502
+	
+Hassan Shavandi
+	
+06/09/2025 - 06/09/2025
+ 
+	  	
+ 
+	
+M 1:00PM - 2:20PM
+	
+QNC 1502
+	
+Hassan Shavandi
+	
+06/30/2025 - 06/30/2025
+	
+NE 318 - Continuum Mechanics
+		
+	
+Status 	Units 	Grading 	Deadlines
+Enrolled
+	
+0.50
+	
+Numeric Grading Basis
+	
+Academic Calendar Deadlines
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+3087
+	
+001
+	
+LEC
+	
+M 10:00AM - 11:20AM
+	
+QNC 1502
+	
+Ting Tsui
+	
+05/05/2025 - 07/30/2025
+ 
+	  	
+ 
+	
+M 1:00PM - 2:20PM
+	
+QNC 1502
+	
+Ting Tsui
+	
+05/05/2025 - 05/05/2025
+ 
+	  	
+ 
+	
+F 10:00AM - 11:20AM
+	
+QNC 1502
+	
+Ting Tsui
+	
+05/05/2025 - 07/30/2025
+ 
+	  	
+ 
+	
+M 1:00PM - 2:20PM
+	
+QNC 1502
+	
+Ting Tsui
+	
+06/23/2025 - 06/23/2025
+3088
+	
+101
+	
+TUT
+	
+M 3:30PM - 4:20PM
+	
+QNC 1502
+	
+Ting Tsui
+	
+05/05/2025 - 07/30/2025
+	
+NE 320L - Character of Materials Lab
+		
+	
+Status 	Units 	Grading 	Deadlines
+Enrolled
+	
+0.25
+	
+Numeric Grading Basis
+	
+Academic Calendar Deadlines
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+3017
+	
+004
+	
+LAB
+	
+T 1:00PM - 3:50PM
+	
+QNC 2614
+	
+Howard Siu
+	
+05/13/2025 - 05/13/2025
+ 
+	  	
+ 
+	
+T 1:00PM - 3:50PM
+	
+QNC 2614
+	
+Howard Siu
+	
+05/27/2025 - 05/27/2025
+ 
+	  	
+ 
+	
+T 1:00PM - 3:50PM
+	
+QNC 2614
+	
+Howard Siu
+	
+06/10/2025 - 06/10/2025
+ 
+	  	
+ 
+	
+T 1:00PM - 3:50PM
+	
+QNC 2614
+	
+Howard Siu
+	
+06/24/2025 - 06/24/2025
+ 
+	  	
+ 
+	
+T 1:00PM - 3:50PM
+	
+QNC 2614
+	
+Howard Siu
+	
+07/08/2025 - 07/08/2025
+ 
+	  	
+ 
+	
+T 1:00PM - 3:50PM
+	
+QNC 2614
+	
+Howard Siu
+	
+07/22/2025 - 07/22/2025
+	
+NE 332 - Quantum Mechanics
+		
+	
+Status 	Units 	Grading 	Deadlines
+Enrolled
+	
+0.50
+	
+Numeric Grading Basis
+	
+Academic Calendar Deadlines
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+3291
+	
+001
+	
+LEC
+	
+T 8:30AM - 9:50AM
+	
+QNC 1502
+	
+Jonathan Baugh
+	
+05/05/2025 - 07/30/2025
+ 
+	  	
+ 
+	
+Th 8:30AM - 9:50AM
+	
+QNC 1502
+	
+Jonathan Baugh
+	
+05/05/2025 - 07/30/2025
+ 
+	  	
+ 
+	
+M 1:00PM - 2:20PM
+	
+QNC 1502
+	
+Jonathan Baugh
+	
+05/12/2025 - 05/12/2025
+ 
+	  	
+ 
+	
+M 1:00PM - 2:20PM
+	
+QNC 1502
+	
+Jonathan Baugh
+	
+07/07/2025 - 07/07/2025
+3292
+	
+101
+	
+TUT
+	
+F 12:30PM - 1:20PM
+	
+QNC 1502
+	
+Jonathan Baugh
+	
+05/05/2025 - 07/30/2025
+	
+NE 333 - Macromolecular Science
+		
+	
+Status 	Units 	Grading 	Deadlines
+Enrolled
+	
+0.50
+	
+Numeric Grading Basis
+	
+Academic Calendar Deadlines
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+3029
+	
+001
+	
+LEC
+	
+T 10:00AM - 11:20AM
+	
+QNC 1502
+	
+Costas Tzoganakis
+	
+05/05/2025 - 07/30/2025
+ 
+	  	
+ 
+	
+F 8:30AM - 9:50AM
+	
+QNC 1502
+	
+Costas Tzoganakis
+	
+05/05/2025 - 07/30/2025
+ 
+	  	
+ 
+	
+M 1:00PM - 2:20PM
+	
+QNC 1502
+	
+Costas Tzoganakis
+	
+05/26/2025 - 05/26/2025
+ 
+	  	
+ 
+	
+M 1:00PM - 2:20PM
+	
+QNC 1502
+	
+Costas Tzoganakis
+	
+07/14/2025 - 07/14/2025
+3030
+	
+101
+	
+TUT
+	
+F 1:30PM - 2:20PM
+	
+QNC 1502
+	
+Costas Tzoganakis
+	
+05/05/2025 - 07/30/2025
+	
+NE 340L - Microfab & Thin-Film Tech Lab
+		
+	
+Status 	Units 	Grading 	Deadlines
+Enrolled
+	
+0.25
+	
+Numeric Grading Basis
+	
+Academic Calendar Deadlines
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+5017
+	
+001
+	
+LAB
+	
+Th 1:00PM - 6:50PM
+	
+DC 3701
+	
+Bahareh Sadeghimakki
+	
+05/05/2025 - 07/30/2025
+	
+NE 343 - Microfabrication & Thin-film
+		
+	
+Status 	Units 	Grading 	Deadlines
+Enrolled
+	
+0.50
+	
+Numeric Grading Basis
+	
+Academic Calendar Deadlines
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+3019
+	
+001
+	
+LEC
+	
+WTh 10:00AM - 11:20AM
+	
+QNC 1502
+	
+Siva Sivoththaman
+	
+05/05/2025 - 07/30/2025
+ 
+	  	
+ 
+	
+M 1:00PM - 2:20PM
+	
+QNC 1502
+	
+Siva Sivoththaman
+	
+06/02/2025 - 06/02/2025
+ 
+	  	
+ 
+	
+M 1:00PM - 2:20PM
+	
+QNC 1502
+	
+Siva Sivoththaman
+	
+07/21/2025 - 07/21/2025
+3020
+	
+101
+	
+TUT
+	
+M 4:30PM - 5:20PM
+	
+QNC 1502
+	
+Siva Sivoththaman
+	
+05/05/2025 - 07/30/2025
+	
+Printer Friendly Page
+	
+				
+	
+	
+Go to top iconGo to top
