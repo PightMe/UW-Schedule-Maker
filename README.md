@@ -1,5 +1,5 @@
 # UW-Schedule-Maker
-This is the repository for students to converts the list view of their course schedule to an ics file for their calendar applications.
+This repository allows students to convert the list view of their course schedule to an ics file for their calendar applications.
 
 # How the code should be used:
 1. Go to course schedule and make sure the page is in _list view_
